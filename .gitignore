@@ -1,3 +1,8 @@
+# hide create-svg-input data input and results
+create-scg-components/*
+!create-scg-components/.gitkeep
+!create-scg-components/result/.gitkeep
+
 # Logs
 logs
 *.log
